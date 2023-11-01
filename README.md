@@ -18,13 +18,13 @@ To clone this repository, follow the steps below:
 2. Navigate to the directory where you want to clone the repository.
 3. Type the following command:
 ```
-   https://github.com/knockcat/Operating-System.git
+   https://github.com/dakshbamola/OS.git
 ```
 4. Press enter to execute the command.
 5. Wait for the cloning process to finish.
 6. Once the cloning process is complete, navigate to the cloned repository using the following command:
 ```
-   cd Operating-System  
+   cd OS  
 ```
 7. You can now explore the repository and use it as needed.
 
